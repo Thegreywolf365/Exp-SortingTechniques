@@ -34,5 +34,9 @@ c. Selection Sort
     Switch the positions of i with the new smallest
   4. Print
   
-  Run:
+  ## Code:
+  <img width="604" alt="image" src="https://user-images.githubusercontent.com/26576979/234014028-ae6f1572-f0f4-4b85-a68f-081209b4ffbc.png">
+
+  
+  ## Run:
   <img width="713" alt="image" src="https://user-images.githubusercontent.com/26576979/234012167-41d30575-a3a0-45c3-bd73-5108d3c118b2.png">
